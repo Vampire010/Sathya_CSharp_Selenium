@@ -3,7 +3,7 @@ namespace Demo_Project1.Arrays_Example
 {
     public class Array_Example_1
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
 
            // int[] evenNums = new int[5] { 2, 4, 6, 8, 10 };
@@ -13,7 +13,7 @@ namespace Demo_Project1.Arrays_Example
 
             for (int i = 0; i < evenNums.Length; i++)
             {
-                Console.WriteLine(evenNums[3]);
+                Console.WriteLine(evenNums[i]);
             }
            
         }
