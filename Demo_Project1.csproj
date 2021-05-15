@@ -8,5 +8,6 @@
   <ItemGroup>
     <Folder Include="Variables_Examples\" />
     <Folder Include="Arrays_Example\" />
+    <Folder Include="MulTi_Dimen_Array\" />
   </ItemGroup>
 </Project>
