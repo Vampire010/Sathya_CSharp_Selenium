@@ -14,7 +14,7 @@ namespace Demo_Project1.Access_Modifiers_1
         }
 
 
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             Sathys_Home1 home1 = new Sathys_Home1();
             home1.Inviation_Message1();
