@@ -3,7 +3,7 @@ namespace Demo_Project1.Abstraction_Example
 {
     public class Person_database : Study_Bank
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             Person_database pd = new Person_database();
             pd.Person_Name("Girish");
