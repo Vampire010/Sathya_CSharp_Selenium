@@ -5,7 +5,7 @@ namespace Demo_Project1.Collections_ArrayList
 {
     public class ArrayList_ex1
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             ArrayList arlist = new ArrayList();
             arlist.Add(1);
